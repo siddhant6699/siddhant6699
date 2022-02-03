@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Telegram Guru](https://github.com/siddhant6699/telegramguru.git)
 
-- 🌱 I’m currently learning **Firebase**
-
 - 👨‍💻 All of my projects are available at [https://github.com/siddhant6699](https://github.com/siddhant6699)
 
 - 📫 How to reach me **siddhantchauhan64@gmail.com**
