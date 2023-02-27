@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Siddhant Chouhan</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-- 🔭 I’m currently working on [Telegram Guru](https://github.com/siddhant6699/telegramguru.git)
+- 🔭 I’m currently Ios mobile development
 
 - 👨‍💻 All of my projects are available at [https://github.com/siddhant6699](https://github.com/siddhant6699)
 
 - 📫 How to reach me **siddhantchauhan64@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sbxGtJlf9xLRuZJesVkEbXfY-McY0nUM/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pO8kK7RJummFqkLIgUuOwPSAZpD3CSfy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
