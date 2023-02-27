@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhant Chouhan</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-- 🔭 I’m currently Ios mobile development
+- 🔭 I’m currently ios mobile development
 
 - 👨‍💻 All of my projects are available at [https://github.com/siddhant6699](https://github.com/siddhant6699)
 
